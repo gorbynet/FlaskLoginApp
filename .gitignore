@@ -1,0 +1,3 @@
+auth/
+instance/db.sqlite
+*.cpython-311.pyc
